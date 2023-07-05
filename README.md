@@ -3,50 +3,40 @@
 
 This is a simple flashlight application for Android devices. It utilizes the camera flash to provide a bright light source, simulating a flashlight. The app also includes additional features such as vibration and sound effects.
 
-## Features
+Effective Date : 5 July 2023
 
-- Turn on/off flashlight using the camera flash
-- Control flashlight through button click or device gestures
-- Use accelerometer to detect shaking motion and toggle flashlight
-- Vibrate the device when the flashlight is turned on
-- Play a click sound effect when the flashlight button is clicked
+# Flashlight Plus Privacy Policy
 
-## Prerequisites
+This Privacy Policy governs the manner in which Flashlight Plus collects, uses, maintains, and discloses information collected from users (each, a "User") of the Flashlight Plus mobile application ("App").
 
-- Android device with a camera that supports flash
-- Android API level 21 (Android 5.0) or higher
+## Information We Collect
 
-## Installation
+Flashlight Plus does not collect any personally identifiable information from its Users. The App does not require any user account or registration, and it does not access or retrieve any personal data from the User's device.
 
-To install and run the Flashlight App, follow these steps:
+## Permissions
 
-1. Clone the repository or download the source code.
-2. Open the project in Android Studio.
-3. Connect your Android device to your computer.
-4. Build and run the project on your device.
+Flashlight Plus requires certain permissions to access the device's camera and flashlight functionality. These permissions are solely used for the intended purpose of controlling the flashlight feature of the App and are not utilized to collect any user information or personal data.
 
-Note: Make sure to grant the necessary camera permission when prompted.
+## Non-Personal Identification Information
 
-## Usage
+Flashlight Plus may collect non-personal identification information about Users whenever they interact with the App. This information may include the type of device, operating system, and other technical details. This data is collected solely for the purpose of improving the App's functionality and user experience.
 
-Once the Flashlight App is installed and running on your Android device, you can follow these steps to use it:
+## Third-Party Libraries and Services
 
-1. Launch the app on your Android device.
-2. Grant camera permission if prompted.
-3. The main screen of the app will display a flashlight button.
-4. Click the button to turn on/off the flashlight.
-5. Shake your device to toggle the flashlight.
-6. Perform a fling gesture to turn on the flashlight.
-7. Double-tap anywhere on the screen to toggle the flashlight.
+Flashlight Plus may use third-party libraries and services that have their own privacy policies. Users are encouraged to review the privacy policies of these third-party providers to understand how their information is handled.
 
-## License
+## Security
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+Flashlight Plus takes reasonable precautions to protect against unauthorized access, alteration, disclosure, or destruction of any information stored within the App. However, please be aware that no data transmission over the internet or electronic storage method is 100% secure. Therefore, Flashlight Plus cannot guarantee the absolute security of any information transmitted or stored in the App.
 
-## Acknowledgments
+## Children's Privacy
 
-This project utilizes the following libraries and resources:
+Flashlight Plus does not knowingly collect any personal information from children under the age of 13. If you believe that your child has provided personal information through the App, please contact us immediately, and we will promptly remove such information from our records.
 
-- Android SDK
-- [OpenAI](https://openai.com) for providing the ChatGPT model
-- [Android Documentation](https://developer.android.com/docs) for Android development references and guides.
+## Changes to This Privacy Policy
+
+Flashlight Plus reserves the right to update or change this Privacy Policy at any time. Users are advised to review this Privacy Policy periodically for any changes. Continued use of the App after any modifications to this Privacy Policy constitutes acceptance of those changes.
+
+## Contact Us
+
+If you have any questions or concerns about this Privacy Policy or the practices of Flashlight Plus, please contact us at shirkeharshal111@gmail.com.
